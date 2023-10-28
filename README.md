@@ -1,7 +1,7 @@
 Hi 👋 My name is Jose Manuel Francés López
 ==========================================
 
-Desarrollador frontend
+Frontend Developer
 ----------------------
 
 I have been a frontend developer with Angular for 3 years and I also perform analyst and design tasks with Adobe XD and Figma. On the other hand, I am little by little introducing myself as a developer in the backend with Spring boot. Finally, I am studying a Specialization course in Artificial Intelligence and Big Data.
